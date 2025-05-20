@@ -1,7 +1,5 @@
 # 🚀 OpsNow 서비스플랫폼팀
 
-![OpsNow 서비스플랫폼팀](https://via.placeholder.com/800x200?text=OpsNow+서비스플랫폼팀)
-
 **클라우드 혁신을 이끌어가는 기술 전문가 그룹**
 
 [![GitHub Stars](https://img.shields.io/badge/stars-★★★★★-yellow?style=flat-square)](https://github.com/opsnow)
