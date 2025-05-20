@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🚀 OpsNow 서비스플랫폼팀
 
-<!--
-**dongbeom-opsnow/dongbeom-opsnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![OpsNow 서비스플랫폼팀](https://via.placeholder.com/800x200?text=OpsNow+서비스플랫폼팀)
 
-Here are some ideas to get you started:
+**클라우드 혁신을 이끌어가는 기술 전문가 그룹**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Stars](https://img.shields.io/badge/stars-★★★★★-yellow?style=flat-square)](https://github.com/opsnow)
+[![Tech Stack](https://img.shields.io/badge/Tech-Cloud%20Native-blue?style=flat-square)](https://opsnow.com)
+[![Platform](https://img.shields.io/badge/Platform-Enterprise-green?style=flat-square)](https://opsnow.com)
+
+
+## 👋 소개
+
+OpsNow 서비스플랫폼팀은 엔터프라이즈급 클라우드 서비스 및 솔루션을 개발하고 운영하는 전문가 그룹입니다. 
+클라우드 운영 자동화, 인프라 최적화, 보안 강화
